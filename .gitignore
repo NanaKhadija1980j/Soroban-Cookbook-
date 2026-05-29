@@ -13,7 +13,6 @@ soroban-ledger*.json
 *.optimized.wasm
 
 # IDE
-.vscode/
 .idea/
 *.iml
 *.swp
@@ -62,3 +61,7 @@ issue.md
 GEMINI.md
 
 .GITHUB_ISSUES_BATCH_REPORT.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
