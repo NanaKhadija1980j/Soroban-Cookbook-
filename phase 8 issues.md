@@ -1,7 +1,7 @@
 # Phase 8: Community & Ecosystem -
 
 **Phase Status:** 📋 PLANNED (Ongoing)  
-**Completion:** 8% (4/50)
+**Completion:** 12% (6/50)
 **Last Audit Date:** September 30, 2026
 
 Community and ecosystem initiatives — in-repo deliverables are tracked per issue below.
@@ -83,14 +83,33 @@ Community and ecosystem initiatives — in-repo deliverables are tracked per iss
   - ✅ Case studies — [`SHOWCASE.md` § Case Studies](./SHOWCASE.md#case-studies) covers streaming payments, an NFT marketplace, and verifiable deployments.
   - ✅ 10 projects featured — 11 projects listed under [`SHOWCASE.md` § Featured Projects](./SHOWCASE.md#featured-projects) (target: 10).
 
+## Featured Projects
+
+### Issue #406: Feature first projects
+
+- **Priority:** Medium
+- **Status:** ✅ Complete
+
+- **Current state:** Deliverables created in-repo — [`docs/featured-projects.md`](./docs/featured-projects.md) features the first 5 projects with a case study, a runnable demo path and capture spec, a structured developer interview per project, and the social-promotion plan. Summarized in [`CONTRIBUTING.md`](./CONTRIBUTING.md#featured-projects) and linked from the [`README.md` Community Health & Metrics table](./README.md#-community-health--metrics). Tracked on GitHub as issue [#963](https://github.com/Soroban-Cookbook/Soroban-Cookbook-/issues/963).
+- **Implementation hints:** Outcomes documented in README and `CONTRIBUTING.md`; external resources linked.
+- **Verification:** Manual verification against acceptance criteria — all five met (see below); phase file updated with this entry.
+- **Scope:** M
+- **Description:** Feature initial projects
+- **Acceptance Criteria:**
+  - ✅ 3-5 projects featured — [`docs/featured-projects.md` § 2](./docs/featured-projects.md#2-the-first-five-featured-projects) features 5 projects with area, template, and the cookbook patterns each demonstrates.
+  - ✅ Case studies written — [`docs/featured-projects.md` § 3](./docs/featured-projects.md#3-case-studies) contains 5 case studies (problem, cookbook material, change applied, outcome, reference implementation).
+  - ✅ Screenshots/demos — [`docs/featured-projects.md` § 4](./docs/featured-projects.md#4-screenshots-and-demos) gives a runnable demo path per project, a five-step capture spec, the `docs/images/` asset rules, and links to the existing walkthrough series.
+  - ✅ Developer interviews — [`docs/featured-projects.md` § 5](./docs/featured-projects.md#5-developer-interviews) defines the interview template and publishes one structured summary per featured project.
+  - ✅ Social promotion — [`docs/featured-projects.md` § 6](./docs/featured-projects.md#6-social-promotion) defines channels, weekly/monthly cadence, the post template, and where outcomes are tracked.
+
 ## Summary
 
 **Total Issues Created:** 70 (Issues #379-#534, #629)
-**Completed:** 4
+**Completed:** 6
 **In Progress:** 0  
-**Planned:** 62
+**Planned:** 60
 
-**Phase 8 Status:** 📋 **8% COMPLETE (Ongoing)**
+**Phase 8 Status:** 📋 **12% COMPLETE (Ongoing)**
 
 Community categories:
 

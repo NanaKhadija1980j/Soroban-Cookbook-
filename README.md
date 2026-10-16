@@ -173,6 +173,7 @@ We track community health transparently so everyone can see how the project is g
 | Resource | Description |
 |---|---|
 | [Project Showcase](./SHOWCASE.md) | 10+ real production Stellar/Soroban projects built with the cookbook, with case studies and tracking |
+| [Featured Projects](./docs/featured-projects.md) | First 5 projects featured, each with a case study, runnable demo, developer interview, and promotion plan |
 | [Project Templates](./templates/) | Full-stack starter templates for Fungible Token, NFT Marketplace, and DAO dApps |
 | [Community Dashboard](./docs/community-dashboard.md) | Live rolling metrics — stars, PRs, response times, satisfaction |
 | [Metric Definitions](./docs/community-metrics.md) | What we measure, how we collect it, and alert thresholds |
