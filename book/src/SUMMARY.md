@@ -118,7 +118,7 @@
 - [Documentation Platform Evaluation](./docs/documentation-platform-evaluation.md)
 - [DeFi Best Practices](./docs/defi-best-practices.md)
 - [DeFi Security Checklist](./docs/defi-security-checklist.md)
-- [Token Security Checklist](./docs/token-security-checklist.md)
+- [Storage Pitfalls](./docs/storage-pitfalls.md)
 - [Common Pitfalls](./docs/common-pitfalls.md)
 - [Style Guide](./docs/style-guide.md)
 - [Performance Benchmarks](./docs/benchmarks.md)
