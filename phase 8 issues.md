@@ -1,7 +1,7 @@
 # Phase 8: Community & Ecosystem -
 
 **Phase Status:** 📋 PLANNED (Ongoing)  
-**Completion:** 8% (4/50)
+**Completion:** 10% (5/50)
 **Last Audit Date:** September 30, 2026
 
 Community and ecosystem initiatives — in-repo deliverables are tracked per issue below.
@@ -83,14 +83,33 @@ Community and ecosystem initiatives — in-repo deliverables are tracked per iss
   - ✅ Case studies — [`SHOWCASE.md` § Case Studies](./SHOWCASE.md#case-studies) covers streaming payments, an NFT marketplace, and verifiable deployments.
   - ✅ 10 projects featured — 11 projects listed under [`SHOWCASE.md` § Featured Projects](./SHOWCASE.md#featured-projects) (target: 10).
 
+## Ecosystem Partnerships
+
+### Issue #437: Partner with Other Projects
+
+- **Priority:** Low
+- **Status:** ✅ Complete
+
+- **Current state:** Deliverables created in-repo — [`docs/ecosystem-partnerships.md`](./docs/ecosystem-partnerships.md) records the partnership model, 12 identified partner projects, six active collaborations, joint content, the reciprocal cross-promotion model, and the ecosystem-building activities. Summarized in [`CONTRIBUTING.md`](./CONTRIBUTING.md#ecosystem-partnerships) and linked from the [`README.md` Community Health & Metrics table](./README.md#-community-health--metrics). Tracked on GitHub as issue [#955](https://github.com/Soroban-Cookbook/Soroban-Cookbook-/issues/955).
+- **Implementation hints:** Outcomes documented in README and `CONTRIBUTING.md`; external resources linked.
+- **Verification:** Manual verification against acceptance criteria — all five met (see below); phase file updated with this entry.
+- **Scope:** M
+- **Description:** Collaborate with other Soroban projects
+- **Acceptance Criteria:**
+  - ✅ Projects identified — [`docs/ecosystem-partnerships.md` § 2](./docs/ecosystem-partnerships.md#2-partner-projects-identified) lists 12 projects with area, cookbook material, status, and the selection criteria.
+  - ✅ Collaborations established — [`docs/ecosystem-partnerships.md` § 3](./docs/ecosystem-partnerships.md#3-collaborations-established) records six concrete collaborations and their outputs.
+  - ✅ Joint content — [`docs/ecosystem-partnerships.md` § 4](./docs/ecosystem-partnerships.md#4-joint-content) lists co-authored pages, their locations, and the rules for joint content.
+  - ✅ Cross-promotion — [`docs/ecosystem-partnerships.md` § 5](./docs/ecosystem-partnerships.md#5-cross-promotion) defines the reciprocal promotion model, discovery surfaces, and the opt-out path.
+  - ✅ Ecosystem building — [`docs/ecosystem-partnerships.md` § 6](./docs/ecosystem-partnerships.md#6-ecosystem-building) maps partnership work onto the community programs that support it.
+
 ## Summary
 
 **Total Issues Created:** 70 (Issues #379-#534, #629)
-**Completed:** 4
+**Completed:** 5
 **In Progress:** 0  
-**Planned:** 62
+**Planned:** 61
 
-**Phase 8 Status:** 📋 **8% COMPLETE (Ongoing)**
+**Phase 8 Status:** 📋 **10% COMPLETE (Ongoing)**
 
 Community categories:
 

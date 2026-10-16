@@ -15,6 +15,34 @@ to `SHOWCASE.md` (name, repo link, one-line description, and which cookbook
 patterns you used). This also helps us keep the Phase 8 "#441: 10+ Projects Built"
 milestone current.
 
+## Ecosystem Partnerships
+
+We collaborate with other Soroban projects so the patterns documented here are
+shaped by the teams actually shipping contracts. The full picture — partner
+projects, active collaborations, joint content, cross-promotion, and how to join
+— lives in [docs/ecosystem-partnerships.md](./docs/ecosystem-partnerships.md).
+
+**Current collaboration tracks:**
+
+| Collaboration | What it produces |
+|---|---|
+| Streaming payments (SoroStream, StellarStream) | Shared storage trade-off case study for stream state |
+| NFT marketplace (soroban-nft-marketplace) | Reviewed [NFT patterns](./docs/nft-patterns.md) and escrow guidance |
+| Explorer and verification (soroban-verify, Soroban Smart Block Explorer) | Corrected [deployment](./book/src/guides/deployment.md) and upgrade guidance |
+| Oracle safety (soroban-oracle-safety) | Staleness and sanity-bound guidance in the oracle examples |
+| Wallet stack (astroid) | Integration notes in the [wallet integration guide](./docs/wallet-integration.md) |
+| Monthly community call | Demos, Q&A, and announcements on the [governance cadence](./GOVERNANCE/) |
+
+**Cross-promotion is reciprocal:** we list a project and describe precisely which
+cookbook patterns it uses, and we ask for exactly one thing in return — a line in
+your README linking to the page you used. Any project can ask to be removed from
+all listings and we will remove it in the next pull request.
+
+**Want to collaborate?** Open an issue describing your project, which cookbook
+pages you used, and whether you want a case study, a documentation review, or a
+demo slot on the monthly call. See
+[How to propose a partnership](./docs/ecosystem-partnerships.md#7-how-to-propose-a-partnership).
+
 ## Feedback System
 
 We have implemented a comprehensive feedback system to collect and manage input from our community. The system is located in the `docs/feedback-system/` directory.
@@ -85,6 +113,7 @@ To contribute a new template or improve an existing one, check out the [Project 
 ## 📍 Table of Contents
 - [New Here? Start with Onboarding](#-new-here-start-with-onboarding)
 - [Monthly Community Call Governance](#monthly-community-call-governance)
+- [Ecosystem Partnerships](#ecosystem-partnerships)
 - [Grants Application Process](#grants-application-process)
 - [Project Templates](#project-templates)
 - [Ways to Contribute](#-ways-to-contribute)
